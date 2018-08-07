@@ -1,1 +1,1 @@
-$(document).ready(() => alert("sameermanek"))
+/*dass algorith needs you to be answered in a sequence*/
